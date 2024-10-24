@@ -3,8 +3,9 @@
 ## *Author  [Omar Soub](https://github.com/omars1234)*
 
                
-
-![Logo](MicrosoftSQLServer.png)
+-            |  -  
+:-------------------------:|:-------------------------:
+![Logo](MicrosoftSQLServer.png) | ![Logo](MicrosoftSQLServer.png)
 
 ### **Overview* :*
 
